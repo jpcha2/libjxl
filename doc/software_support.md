@@ -44,6 +44,7 @@ Please add missing software to this list.
 - [GIMP (since 2.99.8)](https://www.gimp.org/news/2021/10/20/gimp-2-99-8-released/); plugin for older versions available in libjxl repo
 - [Krita](https://invent.kde.org/graphics/krita/-/commit/13e5d2e5b9f0eac5c8064b7767f0b62264a0797b)
 - Photoshop: no plugin available yet, no official support yet
+- [Chasys Draw IES](https://www.jpchacha.com/chasysdraw/) 
 
 ## Image viewers
 
